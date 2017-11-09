@@ -1,0 +1,25 @@
+
+Loading plugins...
+	Binding   GS: C:\Program Files (x86)\PCSX2 1.4.0\Plugins\gsdx32-avx.dll 
+Windows 10.0.16299
+	Binding  PAD: C:\Program Files (x86)\PCSX2 1.4.0\Plugins\lilypad.dll 
+	Binding SPU2: C:\Program Files (x86)\PCSX2 1.4.0\Plugins\spu2-x.dll 
+	Binding CDVD: C:\Program Files (x86)\PCSX2 1.4.0\Plugins\cdvdGigaherz.dll 
+	Binding  USB: C:\Program Files (x86)\PCSX2 1.4.0\Plugins\USBnull.dll 
+	Binding   FW: C:\Program Files (x86)\PCSX2 1.4.0\Plugins\FWnull.dll 
+	Binding DEV9: C:\Program Files (x86)\PCSX2 1.4.0\Plugins\DEV9null.dll 
+Plugins loaded successfully.
+
+
+Initializing plugins...
+	Init GS
+Windows 10.0.16299
+	Init PAD
+	Init SPU2
+	Init CDVD
+	Init USB
+	Init FW
+	Init DEV9
+Plugins initialized successfully.
+
+Action canceled: Startup aborted: User canceled FirstTime Wizard.
